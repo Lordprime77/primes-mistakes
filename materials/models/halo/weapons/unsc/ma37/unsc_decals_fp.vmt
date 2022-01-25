@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+"$baseTexture" "models\halo\weapons\unsc\ma37\unsc_weapon_decals"	
+
+"$alphatest" "1"
+"$allowalphatocoverage" "1"
+}

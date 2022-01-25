@@ -1,0 +1,24 @@
+"UnlitGeneric"
+{
+"$basetexture" 			"models\halo\weapons\unsc\ma37\display_plate"
+
+"$additive"			"1.00"
+"$color"				"[1.75 1.75 1.75]"
+
+
+"$detail" "models\halo\weapons\unsc\ma37\scanlines"
+"$detailblendmode"	"2"
+"$detailblendfactor" "1"
+"$detailscale" "1"
+
+        "Proxies"
+        {
+            "TextureScroll"
+            {
+                "textureScrollVar" "$detailtexturetransform"
+                "textureScrollRate" 0.2
+                "textureScrollAngle" 90
+            }
+        }
+}
+

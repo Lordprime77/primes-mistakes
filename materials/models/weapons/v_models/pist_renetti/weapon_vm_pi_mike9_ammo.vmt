@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/pist_renetti/weapon_vm_pi_mike9_ammo"
+	"$bumpmap" "models/weapons/v_models/pist_renetti/weapon_vm_pi_mike9_ammo_n"
+}

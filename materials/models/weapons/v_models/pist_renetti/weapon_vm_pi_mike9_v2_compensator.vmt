@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/pist_renetti/weapon_vm_pi_mike9_v2_compensator"
+	"$bumpmap" "models/weapons/v_models/pist_renetti/weapon_vm_pi_mike9_v2_compensator_n"
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+
+	$phong 1
+	$phongfresnelranges "[0.2 0.5 3]"
+	$phongalbedotint 1
+	$phongexponent 5
+	$phongboost 1
+	$phongalbedoboost 170
+}

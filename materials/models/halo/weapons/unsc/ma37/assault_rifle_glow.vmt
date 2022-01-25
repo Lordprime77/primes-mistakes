@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+"$basetexture" 			"models\halo\weapons\unsc\ma37\assault_rifle_glow"
+
+"$additive"			"1.00"
+}

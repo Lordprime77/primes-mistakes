@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+"$basetexture" 			"models\halo\weapons\unsc\ma37\ma37_d"
+"$bumpmap" 			"models\halo\weapons\unsc\ma37\ma37_n"
+
+"$detail"				"models\halo\weapons\unsc\ma37\rubber"
+"$detailblendmode"			"0.00"
+"$detailblendfactor"			"3.00"
+"$detailscale"			"60.00"
+
+"$phong"				"1.00"
+"$phongboost"			"5.00"
+"$phongexponent"			"6.00"
+"$phongexponenttexture"		"models\halo\weapons\unsc\ma37\assault_rifle_exp"
+"$phongfresnelranges"		"[1.00 1.75 2.50]"
+"$phongalbedotint"			"1.00"
+"$phongdisablehalflambert"		"1.00"
+}
