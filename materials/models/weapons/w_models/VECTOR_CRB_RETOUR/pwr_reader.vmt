@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\VECTOR_CRB_RETOUR\pwr_reader"
+	"$bumpmap" "models\weapons\v_models\VECTOR_CRB_RETOUR\pwr_reader_n"
+
+
+}

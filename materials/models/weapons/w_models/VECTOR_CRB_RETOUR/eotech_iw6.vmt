@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\weapons\v_models\VECTOR_CRB_RETOUR\eotech_iw6"
+	$bumpmap "models\weapons\v_models\VECTOR_CRB_RETOUR\eotech_iw6_n"
+
+}

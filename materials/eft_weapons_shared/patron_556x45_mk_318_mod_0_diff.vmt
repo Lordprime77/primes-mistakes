@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ammo/patron_556x45_mk_318_mod_0_diff"
+	"$bumpmap" "ammo/patron_556x45_mk_318_mod_0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "24"
+	"$phongexponent" "48"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "ammo/patron_556x45_mk_318_mod_0_gloss"
+}

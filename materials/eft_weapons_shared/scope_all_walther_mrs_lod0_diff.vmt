@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Scope/scope_all_walther_mrs_LOD0_diff"
+	"$bumpmap" "Scope/scope_all_walther_mrs_LOD0_nrm"
+	"$phongexponenttexture" "Scope/scope_all_walther_mrs_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "24"
+	"$phongexponent" "48"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Stock/stock_ar15_magpul_ctr_rubber_butt_pad_LOD0_diff"
+	"$bumpmap" "Stock/stock_ar15_magpul_ctr_rubber_butt_pad_LOD0_nrm"
+	"$phongexponenttexture" "Stock/stock_ar15_magpul_ctr_rubber_butt_pad_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .025 .025 .025 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.225"
+	"$phongexponent" "36"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

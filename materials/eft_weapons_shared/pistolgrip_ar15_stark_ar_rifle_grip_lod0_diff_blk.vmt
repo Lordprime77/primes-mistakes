@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pistol_grip/pistolgrip_ar15_stark_ar_rifle_grip_LOD0_diff_blk"
+	"$bumpmap" "pistol_grip/pistolgrip_ar15_stark_ar_rifle_grip_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.25"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "pistol_grip/pistolgrip_ar15_stark_ar_rifle_grip_LOD0_exponent"
+}

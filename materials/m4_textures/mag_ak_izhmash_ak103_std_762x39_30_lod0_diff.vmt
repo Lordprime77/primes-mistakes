@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Magazine/mag_ak_izhmash_ak103_std_762x39_30_LOD0_diff"
+	"$bumpmap" "Magazine/mag_ak_izhmash_ak103_std_762x39_30_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.25"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "Magazine/mag_ak_izhmash_ak103_std_762x39_30_LOD0_exponent"
+}

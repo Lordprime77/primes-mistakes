@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Stock/stock_vepr_molot_vpo-101_std_wood_rear_LOD0_diff"
+	"$bumpmap" "Stock/stock_vepr_molot_vpo-101_std_wood_rear_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.5"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[0.22 0.856 20]"
+	"$phongexponenttexture" "Stock/stock_vepr_molot_vpo-101_std_wood_rear_LOD0_exponent"
+}

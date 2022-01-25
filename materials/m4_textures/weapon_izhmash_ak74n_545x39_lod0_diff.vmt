@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "ak_textures/weapon_izhmash_ak74n_545x39_LOD0_diff"
+	"$bumpmap" "ak_textures/weapon_izhmash_ak74n_545x39_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "8"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "ak_textures/weapon_izhmash_ak74n_545x39_LOD0_exponent"
+}

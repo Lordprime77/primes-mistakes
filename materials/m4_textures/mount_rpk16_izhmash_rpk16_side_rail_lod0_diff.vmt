@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Rails/mount_rpk16_izhmash_rpk16_side_rail_LOD0_diff"
+	"$bumpmap" "Rails/mount_rpk16_izhmash_rpk16_side_rail_LOD0_nrm"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.25"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "Rails/mount_rpk16_izhmash_rpk16_side_rail_LOD0_exponent"
+}

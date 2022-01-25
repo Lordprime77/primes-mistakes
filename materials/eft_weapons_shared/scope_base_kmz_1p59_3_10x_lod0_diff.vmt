@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Scope_dovetail/scope_base_kmz_1p59_3_10x_LOD0_diff"
+	"$bumpmap" "Scope_dovetail/scope_base_kmz_1p59_3_10x_LOD0_nrm"
+	"$phongexponenttexture" "Scope_dovetail/scope_base_kmz_1p59_3_10x_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "24"
+	"$phongexponent" "48"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

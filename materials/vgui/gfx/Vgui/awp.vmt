@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+
+	"$translucent" 1
+	"$basetexture" "VGUI\gfx\VGUI\awp"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+		"Proxies" 
+		{ 
+		"AnimatedTexture" 
+			{ 
+			"animatedTextureVar" "$baseTexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "8" 
+			}
+		} 
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\VECTOR_CRB_RETOUR\folding_vertical"
+	"$bumpmap" "models\weapons\v_models\VECTOR_CRB_RETOUR\folding_vertical_n"
+
+}

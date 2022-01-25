@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Barrel/barrel_rpk16_izhmash_rpk16_barrels_LOD0_diff"
+	"$bumpmap" "Barrel/barrel_rpk16_izhmash_rpk16_barrels_LOD0_nrm"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "8"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "Barrel/barrel_rpk16_izhmash_rpk16_barrels_LOD0_exponent"
+}

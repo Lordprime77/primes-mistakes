@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Tactical/flashlight_armytek_predator_pro_v3_xhp35_hi_LOD0_diff"
+	"$bumpmap" "Tactical/flashlight_armytek_predator_pro_v3_xhp35_hi_LOD0_nrm"
+	"$phongexponenttexture" "Tactical/flashlight_armytek_predator_pro_v3_xhp35_hi_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "8"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

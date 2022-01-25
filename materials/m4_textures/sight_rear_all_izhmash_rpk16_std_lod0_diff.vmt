@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Rear_sight/sight_rear_all_izhmash_rpk16_std_LOD0_diff"
+	"$bumpmap" "Rear_sight/sight_rear_all_izhmash_rpk16_std_LOD0_nrm"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "8"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "Rear_sight/sight_rear_all_izhmash_rpk16_std_LOD0_exponent"
+}

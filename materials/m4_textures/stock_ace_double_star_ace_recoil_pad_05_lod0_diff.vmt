@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "stock/stock_ace_double_star_ace_recoil_pad_05_LOD0_diff"
+	"$bumpmap" "stock/stock_ace_double_star_ace_recoil_pad_05_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.25"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[0.22 0.856 20]"
+	"$phongexponenttexture" "stock/stock_ace_double_star_ace_recoil_pad_05_LOD0_exponent"
+}

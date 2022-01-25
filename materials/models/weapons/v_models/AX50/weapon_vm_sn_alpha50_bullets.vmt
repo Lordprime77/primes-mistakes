@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models\weapons\V_models\AX50/weapon_vm_sn_alpha50_mag_d"
+	$bumpmap	"models\weapons\V_models\AX50/weapon_vm_sn_alpha50_mag_n"
+	$phongexponenttexture	"models\weapons\V_models\AX50/weapon_vm_sn_alpha50_mag_s"
+	$blendtintbybasealpha "1"
+
+	$phong	"1"
+	$phongboost	"15"
+	$phongfresnelranges	"[.78 .9 1]"
+	$phongalbedotint "1"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"{55 47 29}"
+	$normalmapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+
+}

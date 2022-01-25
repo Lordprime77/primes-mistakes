@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "AK_textures/mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0_diff"
+	"$bumpmap" "AK_textures/mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0_nrm"
+	"$phongexponenttexture" "AK_textures/mount_pp-19-01_izhmash_izh-9x19_sb9_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.075 .075 .075]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "8"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+
+}

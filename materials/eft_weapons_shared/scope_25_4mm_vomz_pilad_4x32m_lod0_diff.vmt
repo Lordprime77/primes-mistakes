@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Scope/scope_25_4mm_vomz_pilad_4x32m_LOD0_diff"
+	"$bumpmap" "Scope/scope_25_4mm_vomz_pilad_4x32m_LOD0_nrm"
+	"$phongexponenttexture" "Scope/scope_25_4mm_vomz_pilad_4x32m_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .0375 .0375 .0375 ]"
+	"$envmapfresnel" ".5"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "24"
+	"$phongexponent" "48"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

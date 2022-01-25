@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Muzzle/silencer_akm_zenit_dtk-4m_762x39_LOD0_diff"
+	"$bumpmap" "Muzzle/silencer_akm_zenit_dtk-4m_762x39_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "8"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "Muzzle/silencer_akm_zenit_dtk-4m_762x39_LOD0_exponent"
+}

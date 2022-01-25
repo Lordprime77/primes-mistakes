@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Scope/scope_all_eotech_g33_LOD0_diff_tan"
+	"$bumpmap" "Scope/scope_all_eotech_g33_LOD0_nrm"
+	"$phongexponenttexture" "Scope/scope_all_eotech_g33_LOD0_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .025 .025 .025 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.375"
+	"$phongexponent" "36"
+	"$phongfresnelranges" "[1 5 22.5]"
+}

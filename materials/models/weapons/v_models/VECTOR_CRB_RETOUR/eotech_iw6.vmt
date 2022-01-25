@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\weapons\v_models\VECTOR_CRB_RETOUR\eotech_iw6"
+	$bumpmap "models\weapons\v_models\VECTOR_CRB_RETOUR\eotech_iw6_n"
+$normalmapalphaenvmapmask      1
+$envmaptint" "[ 0.1 0.1 0.2 ]
+$nocull                        1
+	"$phongexponenttexture" "models\weapons\v_models\VECTOR_CRB_RETOUR\eotech_iw6_exp"
+"$phongboost"   "1.6"
+"$phongfresnelranges"   "[1 9 3]"
+"$phongtint"                   "[0.7 0.9 1]" 
+"$phongalbedotint" "1"
+"$halflambert" "1"
+
+        
+
+}

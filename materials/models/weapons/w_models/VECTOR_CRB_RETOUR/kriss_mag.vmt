@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\VECTOR_CRB_RETOUR\kriss_body"
+	"$bumpmap" "models\weapons\v_models\VECTOR_CRB_RETOUR\kriss_body_n"
+
+
+}

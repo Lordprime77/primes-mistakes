@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Magazine/mag_pp-19-01_pufgun_mag_sg-919_30_9x19_30_LOD0_diff_black"
+	"$bumpmap" "Magazine/mag_pp-19-01_pufgun_mag_sg-919_30_9x19_30_LOD0_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "0"
+
+	"$phongboost" "0.25"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "Magazine/mag_pp-19-01_pufgun_mag_sg-919_30_9x19_30_LOD0_exponent"
+}
